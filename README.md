@@ -2,7 +2,7 @@
 
 A secure Python code generation web application built using **Streamlit** that generates code from user prompts, checks syntax, performs a basic security scan, and assigns a trust score to evaluate the generated code quality.
 
----
+
 
 ##  Features
 
@@ -13,7 +13,7 @@ A secure Python code generation web application built using **Streamlit** that g
 - Clean and interactive Streamlit UI  
 - Fast response without heavy API dependency  
 
----
+
 
 ##  Tech Stack
 
@@ -23,7 +23,7 @@ A secure Python code generation web application built using **Streamlit** that g
 - Custom security checker  
 - Rule-based trust scoring  
 
----
+
 
 ##  Project Structure
 
